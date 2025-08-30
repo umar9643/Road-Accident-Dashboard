@@ -122,10 +122,7 @@ Actionable insights for government agencies, safety departments, and the public.
 Author: Umar Alam
 
 🔗 Connect with me:
-
--[LinkedIn](https://www.linkedin.com/in/umar-alam-a1b2c3/) 
--[GitHub](https://github.com/umar9643)
--[Email](alamumar258455@gmail.com)
+For feedback, suggestions, or collaboration, feel free to reach out via:  
 
 **GitHub**: [umar9643](https://github.com/umar9643)  
 **LinkedIn**: [Umar Alam's Profile](https://www.linkedin.com/in/umar-alam-a1b2c3)  
