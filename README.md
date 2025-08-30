@@ -116,3 +116,13 @@ Actionable insights for government agencies, safety departments, and the public.
  ┣ 📊 Road_Accident_Analysis.pbix
  ┣ 🖼️ Dashboard_Screenshots/
  ┣ 📄 README.md
+
+ ✍️ 10. Author & Contact
+
+Author: Umar Alam
+
+🔗 Connect with me:
+
+[LinkedIn](https://www.linkedin.com/in/umar-alam-a1b2c3/)
+[GitHub](https://github.com/umar9643)
+[Email](alamumar258455@gmail.com)
