@@ -1,5 +1,6 @@
 🚦 Road Accident Analysis Dashboard (Power BI)
 
+[ss](SS%20of%20Dashboard/Road%20Accident%20analysis%20Dashboard%20%20SS.png)
 📌 1. Project Overview
 
 This project is an end-to-end Power BI dashboard developed to analyze road accident data for the years 2021 & 2022.
